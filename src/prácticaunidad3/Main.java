@@ -15,6 +15,8 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        int suma = 0;
+        
         CCuenta miCuenta;
         double saldoActual;
         
